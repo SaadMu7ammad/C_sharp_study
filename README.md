@@ -1,2 +1,2 @@
 # C_sharp_study
-according to the academic course at (Mansoura University)
+According to the academic course at (Mansoura University) 2nd year Faculty of Engineering
