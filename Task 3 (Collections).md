@@ -1,9 +1,8 @@
-# Task 3 (Collections)
+# (Collections)
 ------------
 
  **Saad Muhammad Saad** 
  
-**sec 3**
 
 ***Dr/Hanna Zeinedeen***
 
